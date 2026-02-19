@@ -1,0 +1,25 @@
+﻿{
+  "name": "Mak Frio - Climatização e Refrigeração",
+  "short_name": "Mak Frio",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d2c54",
+  "description": "Instalação, manutenção e venda de ar-condicionado com atendimento rápido.",
+  "icons": [
+    {
+      "src": "assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
